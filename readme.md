@@ -1,6 +1,7 @@
 # Todo avec Python
 
-[todo](https://github.com/flavien-hugs/pytodo.git)
+[![todo](https://img.shields.io/badge/pytodo-passing-orange)](https://github.com/flavien-hugs/pytodo.git)
+[![Python Version](https://img.shields.io/badge/Python-3.6-brightgreen.svg)](https://www.python.com)
 
 Petit exercice de création d'un programme qui permet *d'enregistrer,
 d'afficher et de rechercher* des élèves via un fichier.
