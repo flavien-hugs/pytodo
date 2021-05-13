@@ -1,0 +1,12 @@
+[flake8]
+max-line-length = 88
+select = C,E,F,W,B,B950
+exclude = .git
+ignore = E203, E501, W503, E302
+
+[isort]
+profile = black
+src_paths = todo
+
+show_missing = True
+skip_covered = True
